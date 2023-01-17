@@ -4,6 +4,9 @@ A modern and modular hybrid dashboard. THE-board has everything you want in a da
 
 Enjoy.
 
+
+<img src="https://github.com/bjmnlx20/the-board/blob/master/dshbrd.png" width="800"> <br>
+
 Bootstrapped using - [create-react-app](https://create-react-app.dev/) <br>
 Global app styling - [material ui](https://mui.com/material-ui/getting-started/installation/)<br>
 Bar, Line, Pie and Geography charts - [nivo charts](https://nivo.rocks/components/)<br>
