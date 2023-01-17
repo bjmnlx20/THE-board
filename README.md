@@ -1,6 +1,6 @@
-Try it @ https://THE-dashboard.netlify.app
+Try it @ https://THE-board.netlify.app
 
-A modern and modular hybrid dashboard. THE-dashboard has everything you want in a dashboard. Probably. Mix, match add or remove components as needed.
+A modern and modular hybrid dashboard. THE-board has everything you want in a dashboard. Probably. Mix, match add or remove components as needed.
 
 Enjoy.
 
